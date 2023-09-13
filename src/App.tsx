@@ -1,14 +1,10 @@
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import Header from "components/Header";
-import Test from "components/Test";
-import Result from "components/Result";
-import Footer from "components/Footer";
+import { Header, Footer, Test, Result, CommandPallet } from "components";
 import { State } from "store/reducer";
 import { setTimerId } from "store/actions";
 import { recordTest } from "helpers/recordTest";
 import "stylesheets/themes.scss";
-import CommandPallet from "components/CommandPallet";
 
 export default function App() {
     const {
