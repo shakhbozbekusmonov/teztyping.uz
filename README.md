@@ -1,0 +1,1 @@
+# TezTyping.uz monkeytype alternative
