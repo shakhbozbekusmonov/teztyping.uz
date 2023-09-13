@@ -80,7 +80,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README.md file further to include any additional information specific to your project, such as screenshots, usage examples, or developer guidelines. Providing clear and comprehensive documentation can help attract users and contributors to your project.
+project.
