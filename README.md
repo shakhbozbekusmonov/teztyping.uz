@@ -37,13 +37,13 @@ To get started with the TezTyping.uz MonkeyType Alternative, follow the steps be
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shakhbozbekusmonov/teztyping
+   git clone https://github.com/shakhbozbekusmonov/teztyping.uz
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd teztyping
+   cd teztyping.uz
    ```
 
 3. Install the project dependencies:
